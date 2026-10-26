@@ -13,4 +13,12 @@ An ESP32-based lighting controller designed to work with power supplies modified
 * **WireGuard and Web OTA:** Maintains a tunnel to the network via a broker and hosts a local web page for firmware updates via a `.bin` file.
 * **FreeRTOS:** Networking (Wi-Fi, VPN, MQTT) is offloaded to Core 0, while RF receiver polling, PWM, and relays run on Core 1, ensuring that buttons respond without delay even if there are connectivity issues.
 
-Translated with DeepL.com (free version)
+
+
+https://github.com/user-attachments/assets/45f5a651-84c8-452d-94ff-63105d37ee2f
+
+
+https://github.com/user-attachments/assets/f8f0e0ca-7ef5-45a1-9584-c616f2a4e518
+
+
+
